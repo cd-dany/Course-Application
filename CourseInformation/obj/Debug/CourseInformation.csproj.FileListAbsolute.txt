@@ -1,0 +1,10 @@
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\bin\Debug\CourseInformation.exe.config
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\bin\Debug\CourseInformation.exe
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\bin\Debug\CourseInformation.pdb
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\obj\Debug\CourseInformation.csproj.AssemblyReference.cache
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\obj\Debug\CourseInformation.Form1.resources
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\obj\Debug\CourseInformation.Properties.Resources.resources
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\obj\Debug\CourseInformation.csproj.GenerateResource.cache
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\obj\Debug\CourseInformation.csproj.CoreCompileInputs.cache
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\obj\Debug\CourseInformation.exe
+C:\Users\dtxda\source\repos\CourseInformation\CourseInformation\obj\Debug\CourseInformation.pdb
